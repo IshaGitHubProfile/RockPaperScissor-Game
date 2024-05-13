@@ -54,3 +54,17 @@
     border-radius: 5px;
 }
 
+@media screen and (max-width: 768px) {
+    .buttons {
+      flex-direction: column;
+    }
+  
+    .btn1 {
+      margin-top: 2rem;
+    }
+  
+    .btn img {
+      height: 100px;
+      width: 100px;
+    }
+  }
