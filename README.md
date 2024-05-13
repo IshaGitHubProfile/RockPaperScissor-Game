@@ -8,7 +8,7 @@ https://rock-paper-scissor-game-pink.vercel.app/
 ## How to Play
 
 1. Clone the repository:
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/IshaGitHubProfile/rock-paper-scissors.git
 2. Open the `index.html` file in your web browser.
 
 3. Click on one of the buttons (Rock, Paper, or Scissors) to make your move.
